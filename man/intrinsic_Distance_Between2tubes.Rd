@@ -23,3 +23,10 @@ data("tube_A")
 data("tube_B")
 intrinsic_Distance_Between2tubes(tube1 = tube_A,tube2 = tube_B)
 }
+\references{
+Taheri, M., Pizer, S. M., & Schulz, J. (2024). "The Mean Shape under the Relative Curvature Condition." arXiv.
+\doi{10.48550/arXiv.2404.01043}
+
+Taheri Shalmani, M. (2024). "Shape Statistics via Skeletal Structures." University of Stavanger.
+\doi{10.13140/RG.2.2.34500.23685}
+}
