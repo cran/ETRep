@@ -1,9 +1,9 @@
-97de1388b3902b23383d68dfc6475c3f *DESCRIPTION
+7d347bd933cded08477d4a73afc1fb55 *DESCRIPTION
 a933f63bf5174611e3e4381c82cbe0ba *LICENSE
-deb15621062ee005031008eb5aab8905 *NAMESPACE
-aa77a475da249edc314806d9ef1859bc *NEWS
-e099794b1a92a08933d09ebbc4c37df2 *R/ETRep_Functions.R
-4ec557bcb3c6e4d2b5add28b83d44f10 *R/MathFunctions.R
+a6844d728ffeeca0216ffefc28624e5a *NAMESPACE
+e59788f4328287d6db6d8963d8d58cfb *NEWS
+b458b3e0d64ba5a39d879ae190b9c05d *R/ETRep_Functions.R
+514823d060ae2077e5f8a97d9bc35cf9 *R/MathFunctions.R
 aa5e5a2cbfaea3d9b6cdbe378ac48cee *build/partial.rdb
 ac3b7ce06ed33765aea1eaa9c82becb4 *data/colon3D.rda
 e2feee2c235493a35c5055ed82ceb246 *data/simulatedColons.rda
@@ -24,3 +24,4 @@ a412cbf1192bf575978ae88c573566f4 *man/plot_Elliptical_Tube.Rd
 62a7bf292a8fe4ff4dd8e4021828d2c8 *man/simulatedColons.Rd
 e81e8f34a1a49bb6edafa94252a5ff45 *man/tube_A.Rd
 b7fe4340024d150c94db7065ed3d5691 *man/tube_B.Rd
+fffca2fe56aaf5fd3ae9261889e789ca *man/tube_Surface_Mesh.Rd
